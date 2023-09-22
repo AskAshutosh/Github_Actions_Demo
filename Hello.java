@@ -1,6 +1,6 @@
-import java.util.*;
+package HelloJava;
 
-class Hello{
+public class Hello{
   public static void main(String[] agrs){
     System.out.println("Hello World");
   }
